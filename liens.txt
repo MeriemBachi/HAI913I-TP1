@@ -1,2 +1,2 @@
-Depot Git : (a completer)
+Depot Git : https://github.com/MeriemBachi/HAI913I-TP1
 Video de demonstration : (a completer — YouTube ou fichier video/demonstration.mp4)

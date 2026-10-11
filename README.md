@@ -163,3 +163,7 @@ library.service.Catalog#add(library.model.Item,library.model.Item)
 ```
 
 Les types imbriqués utilisent des points : `library.service.LoanService.Loan#getItem()`.
+
+## Dépôt
+
+https://github.com/MeriemBachi/HAI913I-TP1
