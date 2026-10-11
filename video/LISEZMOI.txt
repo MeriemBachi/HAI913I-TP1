@@ -1,0 +1,10 @@
+Enregistrez ici demonstration.mp4, ou placez l'URL dans ../liens.txt.
+
+Sequence suggeree (commentaire oral facultatif, texte a l'ecran suffisant) :
+1. mvn clean package depuis une copie fraiche
+2. java -jar target/hai913i-tp1-analyzer.jar -x 5 resources/validation
+3. --action structure, --action calls, --action metrics -x 5, --action graph
+4. --ast src/library/model/Dvd.java
+5. un cas d'erreur : -x abc  et  resources/robustness/no-java-files
+6. --html analyse.html puis ouvrir le fichier : clic sur un noeud du graphe
+7. --action coupling  (variante TP2)
